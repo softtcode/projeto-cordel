@@ -22,6 +22,8 @@ header {
     padding: 1rem;
     color: white;
     background-image: linear-gradient(to right, black, purple );
+    position: sticky;
+    top: 0;
 }
 
 #name {
